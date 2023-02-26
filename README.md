@@ -1,7 +1,7 @@
 # UFO visualization with JavaScript
 
 ---
-## Overview:
+## Overview
 
 Using JavaScript as the primary coding language, I created a table to organize UFO data stored as an array. I was able to create, populate and dynamically filter the table based on certain criteria using JavaScript and HTML. 
 
